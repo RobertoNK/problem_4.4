@@ -1,0 +1,17 @@
+PROBLEM 4 CHAPTER 4
+BOOK: JAVA PROGRAMING FROM THE BEGINNING BY K. N. KING
+
+Make the following changes to the checkISBN program (section
+3.10):
+
+(a) If the user's input is not 13 characters long or does not
+contain exactly three dashes, have the program prompt the 
+user to re-enter the input. The program will repeat the prompt
+as often as necessary until the input meets these criteria.
+
+(b) Use a loop to calculate the values of the total variable
+
+(c) Instead of printing the original check digit and the
+computed check digit, have the program to display either
+ISBN is valid( uf the check digits match) or ISBN is not valid
+(if they don't)
